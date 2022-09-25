@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1664078000,
+      "filename": "SuperiorOS-Thirteen-Alpha-Mi439-GAPPS-RELEASE-20220925-0354.zip",
+      "id": "307048c3d3525d2630d015cc0979024b9e3ba9d0255c57f047f51029a1e730bb",
+      "romtype": "GAPPS",
+      "size":1089226128,
+      "url": "https://master.dl.sourceforge.net/project/superioros/Mi439/gapps/SuperiorOS-Thirteen-Alpha-Mi439-GAPPS-RELEASE-20220925-0354.zip",
+      "version": "Thirteen",
+      "device_name": "Redmi 7a/ 8 series",
+      "maintainer": "karann2354"
+    }
+  ]
+}
