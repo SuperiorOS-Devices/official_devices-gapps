@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1664102025,
+      "filename": "SuperiorOS-Thirteen-Alpha-lava-GAPPS-RELEASE-20220926-0245.zip",
+      "id": "880bf29a31d823a65cf16717e3a4c09e1b74618581b9a43ac64f5311e1185e0d",
+      "romtype": "GAPPS",
+      "size":1279657933,
+      "url": "https://sitsa.dl.sourceforge.net/project/superioros/lava/gapps/SuperiorOS-Thirteen-Alpha-lava-GAPPS-RELEASE-20220926-0245.zip",
+      "version": "Thirteen",
+      "device_name": "Redmi 9 / Poco M2",
+      "maintainer": "Soni Dharma (01soni247)"
+    }
+  ]
+}
