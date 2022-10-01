@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1664629949,
+      "filename": "SuperiorOS-Thirteen-Alpha-vayu-GAPPS-RELEASE-20221001-1550.zip",
+      "id": "4becbc4994bc3dd01798f7366346b5137baeb18cecb093266fbe03ca11a4e3fb",
+      "romtype": "GAPPS",
+      "size":1877915276,
+      "url": "https://master.dl.sourceforge.net/project/superioros/avicii/gapps/SuperiorOS-Thirteen-Alpha-vayu-GAPPS-RELEASE-20221001-1550.zip",
+      "version": "Thirteen",
+      "device_name": "POCO X3 Pro",
+      "maintainer": "Eduardo Zeas"
+    }
+  ]
+}
