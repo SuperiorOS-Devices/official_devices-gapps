@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (C) 2020-21 Superior OS Project
+# Copyright (C) 2020-22 Superior OS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@ EOF
   sourcerom=$2
   DATE="$(date +%Y%m%d)"
   DAY="$(date +%d/%m/%Y)"
-  zip_path=~/$sourcerom/out/target/product/$device/*$DATE*.zip
+  zip_path=~/$sourcerom/out/target/product/$device/gapps/*$DATE*.zip
   set -e
 
   if [ ! -d ~/official_devices-gapps ]; then
