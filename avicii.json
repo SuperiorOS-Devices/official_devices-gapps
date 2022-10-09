@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime":1664025876,
+      "datetime": 1664025876,
       "filename": "SuperiorOS-Thirteen-Alpha-avicii-GAPPS-RELEASE-20220924-1325.zip",
       "id": "a05822cc355963522c300e86dab8d3e3b5522145bd57324f5de163d4c2e6d410",
       "romtype": "GAPPS",
-      "size":2013444509,
+      "size": 2013444509,
       "url": "https://master.dl.sourceforge.net/project/superioros/avicii/gapps/SuperiorOS-Thirteen-Alpha-avicii-GAPPS-RELEASE-20220924-1325.zip",
       "version": "Thirteen",
       "device_name": "Oneplus Nord",
