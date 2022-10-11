@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1665462272,
+      "filename": "SuperiorOS-Thirteen-sweet-GAPPS-RELEASE-20221011-0425.zip",
+      "id": "65028fb377b569a99698421e078bdde12f92ffafb9687e506e3adc77bf8b3642",
+      "romtype": "RELEASE",
+      "size":1463870253,
+      "url": "https://master.dl.sourceforge.net/project/superioros/sweet/gapps/SuperiorOS-Thirteen-sweet-GAPPS-RELEASE-20221011-0425.zip",
+      "version": "Thirteen",
+      "device_name": "sweet",
+      "maintainer": "unsatifsed27"
+    }
+  ]
+}
