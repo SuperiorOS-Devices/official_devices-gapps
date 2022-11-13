@@ -55,7 +55,7 @@ EOF
       $(sed -i "s|$id_old|$id|g" ~/official_devices-gapps/$device.json)
 
       # Rom type
-      type="OFFICIAL"
+      type="RELEASE"
       type_old=$(cat ~/official_devices-gapps/$device.json | grep "romtype" | cut -d':' -f2 | cut -d'"' -f2)
       $(sed -i "s|$type_old|$type|g" ~/official_devices-gapps/$device.json)
 
