@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1668775059,
+      "filename": "SuperiorOS-Thirteen-begonia-GAPPS-RELEASE-20221119-1740.zip",
+      "id": "7e0004a32a9f6044345830b497c86b1aa75f98665e06f84a8bf3ece38931640c",
+      "romtype": "RELEASE",
+      "size":1503420733,
+      "url": "https://master.dl.sourceforge.net/project/superioros/begonia/gapps/SuperiorOS-Thirteen-begonia-GAPPS-RELEASE-20221119-1740.zip",
+      "version": "Thirteen",
+      "device_name": "Xiaomi Redmi Note 8 Pro",
+      "maintainer": "Ayush Singh (SHADOW)"
+    }
+  ]
+}
