@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1668596507,
-      "filename": "SuperiorOS-Thirteen-avicii-GAPPS-RELEASE-20221116-1103.zip",
-      "id": "5ad3ebb49925467c9faa674b5b7120baf87c65fd0375dd5ef896ff659ffd4de2",
+      "datetime":1671004610,
+      "filename": "SuperiorOS-Thirteen-avicii-GAPPS-RELEASE-20221214-0800.zip",
+      "id": "97c7fb397560ba9f8b279fc0eee4080ffce7b63e2c38ea7f08276c25b11f8d5a",
       "romtype": "RELEASE",
-      "size":2017923049,
-      "url": "https://master.dl.sourceforge.net/project/superioros/avicii/gapps/SuperiorOS-Thirteen-avicii-GAPPS-RELEASE-20221116-1103.zip",
+      "size":2222224434,
+      "url": "https://master.dl.sourceforge.net/project/superioros/avicii/gapps/SuperiorOS-Thirteen-avicii-GAPPS-RELEASE-20221214-0800.zip",
       "version": "Thirteen",
       "device_name": "Oneplus Nord",
       "maintainer": "Sipun Ku Mahanta"
