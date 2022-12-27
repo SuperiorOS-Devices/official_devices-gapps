@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1671015856,
-      "filename": "SuperiorOS-Thirteen-spes-GAPPS-RELEASE-20221214-1108.zip",
-      "id": "6e222df3e72229d31a241f4cecdc1ace26fc544512ce0d0917e73c8d8cb6f5e9",
+      "datetime":1672120426,
+      "filename": "SuperiorOS-Thirteen-spes-GAPPS-RELEASE-20221227-0553.zip",
+      "id": "8fde840b096ec1a9cea368dca6742e0b9b4b1baa13686414d3e8778622cf3585",
       "romtype": "RELEASE",
-      "size":1342000242,
-      "url": "https://master.dl.sourceforge.net/project/superioros/spes/gapps/SuperiorOS-Thirteen-spes-GAPPS-RELEASE-20221214-1108.zip",
+      "size":1351648286,
+      "url": "https://master.dl.sourceforge.net/project/superioros/spes/gapps/SuperiorOS-Thirteen-spes-GAPPS-RELEASE-20221227-0553.zip",
       "version": "Thirteen",
       "device_name": "Redmi Note 11",
       "maintainer": "Enweazu Daniel"
