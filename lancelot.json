@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1673151724,
-      "filename": "SuperiorOS-Thirteen-lancelot-GAPPS-RELEASE-20230108-0423.zip",
-      "id": "10a73c57b2a65d0c488f6efca31cafe0a7bf1365885b69aa2b4440d9b744447b",
+      "datetime":1673272394,
+      "filename": "SuperiorOS-Thirteen-lancelot-GAPPS-RELEASE-20230109-1354.zip",
+      "id": "63397a44519d7705c1ff92d722c59121a0e3600252f5e2366f2bc6ebe809322f",
       "romtype": "RELEASE",
-      "size":1338481441,
-      "url": "https://master.dl.sourceforge.net/project/superioros/lancelot/gapps/SuperiorOS-Thirteen-lancelot-GAPPS-RELEASE-20230108-0423.zip",
+      "size":1338635578,
+      "url": "https://master.dl.sourceforge.net/project/superioros/lancelot/gapps/SuperiorOS-Thirteen-lancelot-GAPPS-RELEASE-20230109-1354.zip",
       "version": "Thirteen",
       "device_name": "Redmi 9 / Poco M2",
       "maintainer": "Soni Dharma (01soni247)"
