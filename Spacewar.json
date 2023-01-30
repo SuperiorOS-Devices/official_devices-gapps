@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1675087939,
+      "filename": "SuperiorOS-Thirteen-Spacewar-GAPPS-RELEASE-20230130-1412.zip",
+      "id": "ff8a37f8ff35a670808f1d22a93e7afb2cb11ebd7c9f753c6e08d5a3ce2bb7b5",
+      "romtype": "RELEASE",
+      "size":2307397963,
+      "url": "https://master.dl.sourceforge.net/project/superioros/Spacewar/gapps/SuperiorOS-Thirteen-Spacewar-GAPPS-RELEASE-20230130-1412.zip?viasf=1",
+      "version": "Thirteen",
+      "device_name": "Nothing phone1",
+      "maintainer": "Vikas Yaduvanshi (OptimussPriime)"
+    }
+  ]
+}
