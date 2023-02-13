@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1676311792,
+      "filename": "SuperiorOS-Thirteen-miatoll-GAPPS-RELEASE-20230213-1812.zip",
+      "id": "0de115447660aedf25b035dd8bd83a52faab2e4acf51164962b7f509de10854a",
+      "romtype": "RELEASE",
+      "size": 1789415377,
+      "url": "https://master.dl.sourceforge.net/project/superioros/miatoll/gapps/SuperiorOS-Thirteen-miatoll-GAPPS-RELEASE-20230213-1812.zip",
+      "version": "Thirteen",
+      "device_name": "Redmi Note 9S/Redmi 9 Pro/Redmi Note 9 Pro Max/Redmi Note 10 Lite/Poco M2 Pro",
+      "maintainer": "ARINDAM BHATTACHARJEE (@CRUECY)"
+    }
+  ]
+}
