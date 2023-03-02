@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1677690433,
+      "filename": "SuperiorOS-Thirteen-enchilada-GAPPS-RELEASE-20230302-1153.zip",
+      "id": "76488f248c4fbdeca929e2d7924850bd23770c1395d67f2d7dab8615b307586d",
+      "romtype": "RELEASE",
+      "size":1255938916,
+      "url": "https://master.dl.sourceforge.net/project/superioros/enchilada/SuperiorOS-Thirteen-enchilada-GAPPS-RELEASE-20230302-1153.zip",
+      "version": "Thirteen",
+      "device_name": "OnePlus 6",
+      "maintainer": "Vikas Yaduvanshi "
+    }
+  ]
+}
