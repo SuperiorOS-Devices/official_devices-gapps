@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1678257250,
-      "filename": "SuperiorOS-Thirteen-fajita-GAPPS-RELEASE-20230308-0752.zip",
-      "id": "d243a2688d7291fe9eb0a7d66929bfcdb2151951b2d97b4a8fa05668dc2d27a9",
+      "datetime":1678281557,
+      "filename": "SuperiorOS-Thirteen-fajita-GAPPS-RELEASE-20230308-1322.zip",
+      "id": "a79fe421c1dc259068af3ad7e4ca1c0da3664ca75d0bb8a852f65369bbd0fd12",
       "romtype": "RELEASE",
-      "size":1399553571,
-      "url": "https://master.dl.sourceforge.net/project/superioros/fajita/gapps/SuperiorOS-Thirteen-fajita-GAPPS-RELEASE-20230308-0752.zip",
+      "size":1400102529,
+      "url": "https://master.dl.sourceforge.net/project/superioros/fajita/gapps/SuperiorOS-Thirteen-fajita-GAPPS-RELEASE-20230308-1322.zip",
       "version": "Thirteen",
       "device_name": "OnePlus 6T",
       "maintainer": "Vikas Yaduvanshi "
