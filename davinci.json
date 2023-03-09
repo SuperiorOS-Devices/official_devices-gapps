@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1678323931,
+      "filename": "SuperiorOS-Thirteen-davinci-GAPPS-RELEASE-20230309-0106.zip",
+      "id": "fa9bb8a5d376fe3a5cc93360535ee8d8ec1ef4392640849c24388d0367ed5557",
+      "romtype": "RELEASE",
+      "size": 1852470247,
+      "url": "https://master.dl.sourceforge.net/project/superioros/davinci/gapps/SuperiorOS-Thirteen-davinci-GAPPS-RELEASE-20230309-0106.zip",
+      "version": "Thirteen",
+      "device_name": "Xiaomi Mi 9T/Redmi K20",
+      "maintainer": "MK (@SILENT_KILLER404)"
+    }
+  ]
+}
