@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1676098218,
-      "filename": "SuperiorOS-Thirteen-merlinx-GAPPS-RELEASE-20230211-0651.zip",
-      "id": "93610af30da6c7f9129bdf8c1fb4ce0affb0fc03f12bf8d24afab4ca3d3be667",
+      "datetime":1678379492,
+      "filename": "SuperiorOS-Thirteen-merlinx-GAPPS-RELEASE-20230309-1633.zip",
+      "id": "02562238352b3c5108828910c2b8aad79d83df2b9ab0334fd6229a7c00fb04c7",
       "romtype": "RELEASE",
-      "size":1330443635,
-      "url": "https://master.dl.sourceforge.net/project/superioros/merlinx/gapps/SuperiorOS-Thirteen-merlinx-GAPPS-RELEASE-20230211-0651.zip",
+      "size":1387101170,
+      "url": "https://master.dl.sourceforge.net/project/superioros/merlinx/gapps/SuperiorOS-Thirteen-merlinx-GAPPS-RELEASE-20230309-1633.zip",
       "version": "Thirteen",
       "device_name": "Redmi Note 9 / Redmi 10X 4G",
       "maintainer": "Soni Dharma (01soni247)"
