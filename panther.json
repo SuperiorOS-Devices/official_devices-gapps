@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1676918228,
+      "filename": "SuperiorOS-Thirteen-panther-GAPPS-RELEASE-20230220-1837-otapackage.zip",
+      "id": "e30edae187f324544e73d6ed751963c921e1404042b7765df380aa2882856cb2",
+      "romtype": "RELEASE",
+      "size":1955069333,
+      "url": "https://master.dl.sourceforge.net/project/superioros/panther/SuperiorOS-Thirteen-panther-GAPPS-RELEASE-20230220-1837-otapackage.zip",
+      "version": "Thirteen",
+      "device_name": "Google Pixel 7",
+      "maintainer": "Jayant Deshmukh (@jd1811)"
+    }
+  ]
+}
