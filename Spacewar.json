@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1680274673,
-      "filename": "SuperiorOS-Thirteen-Spacewar-GAPPS-RELEASE-20230331-1535.zip",
-      "id": "c9cc27ba3c2d0c920242bb8ef9886c59e5543cbe97066f3d23788b04105a223f",
+      "datetime":1681025369,
+      "filename": "SuperiorOS-Thirteen-Spacewar-GAPPS-RELEASE-20230409-0733.zip",
+      "id": "1d6d7c81eff86ff3269d1f7c67cf6ad0e6fc4c28f2201bf07a73b7e23fa00047",
       "romtype": "RELEASE",
-      "size":2083000430,
-      "url": "https://master.dl.sourceforge.net/project/superioros/Spacewar/gapps/SuperiorOS-Thirteen-Spacewar-GAPPS-RELEASE-20230331-1535.zip",
+      "size":2083111172,
+      "url": "https://master.dl.sourceforge.net/project/superioros/Spacewar/gapps/SuperiorOS-Thirteen-Spacewar-GAPPS-RELEASE-20230409-0733.zip",
       "version": "Thirteen",
       "device_name": "Nothing phone1",
       "maintainer": "Vikas Yaduvanshi"
