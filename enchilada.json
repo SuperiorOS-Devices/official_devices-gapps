@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1678282975,
-      "filename": "SuperiorOS-Thirteen-enchilada-GAPPS-RELEASE-20230308-1347.zip",
-      "id": "d912d38f50f22496f787a5e4565e95f2584047eee08c9df0cf45e498c23cea4e",
+      "datetime":1679822324,
+      "filename": "SuperiorOS-Thirteen-enchilada-GAPPS-RELEASE-20230327-1137.zip",
+      "id": "b5dcf7ba50ba5fdced4cd8b371f12434ebe380b2d0249470a118b3900e8e0ab0",
       "romtype": "RELEASE",
-      "size":1253364720,
-      "url": "https://master.dl.sourceforge.net/project/superioros/enchilada/gapps/SuperiorOS-Thirteen-enchilada-GAPPS-RELEASE-20230308-1347.zip",
+      "size":1373989420,
+      "url": "https://master.dl.sourceforge.net/project/superioros/enchilada/gapps/SuperiorOS-Thirteen-enchilada-GAPPS-RELEASE-20230327-1137.zip",
       "version": "Thirteen",
       "device_name": "OnePlus 6",
       "maintainer": "Vikas Yaduvanshi "
