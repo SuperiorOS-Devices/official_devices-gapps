@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1680066221,
-      "filename": "SuperiorOS-Thirteen-alioth-GAPPS-RELEASE-20230329-0800.zip",
-      "id": "0f682c63e3f119c7474bc02d077ef9d5c05dc5a57d9664c23e640b4db33980a9",
+      "datetime":1681399375,
+      "filename": "SuperiorOS-Thirteen-alioth-GAPPS-RELEASE-20230414-0240.zip",
+      "id": "37c8e4c38ae10b64b32b4f1969eca14142b4c718ff53400d59ec0253331d9c70",
       "romtype": "RELEASE",
-      "size":1597892582,
-      "url": "https://master.dl.sourceforge.net/project/superioros/alioth/gapps/SuperiorOS-Thirteen-alioth-GAPPS-RELEASE-20230329-0800.zip",
+      "size":1681399375,
+      "url": "https://master.dl.sourceforge.net/project/superioros/alioth/gapps/SuperiorOS-Thirteen-alioth-GAPPS-RELEASE-20230414-0240.zip",
       "version": "Thirteen",
       "device_name": "Poco F3/ Mi 11x/ Redmi K40",
       "maintainer": "Ashutosh Chettri (@Eidoron1)"
