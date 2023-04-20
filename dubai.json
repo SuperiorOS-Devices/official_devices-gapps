@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1681261329,
+      "filename": "SuperiorOS-Thirteen-dubai-GAPPS-RELEASE-20230412-0102.zip",
+      "id": "5ad9d138d1faa05fe1bb787f415c366599ab86fccf676e79dd2e3a2e03ed77ef",
+      "romtype": "RELEASE",
+      "size":1776051827,
+      "url": "https://master.dl.sourceforge.net/project/superioros/dubai/gapps/SuperiorOS-Thirteen-dubai-GAPPS-RELEASE-20230412-0102.zip",
+      "version": "Thirteen",
+      "device_name": "Motorola Edge 30",
+      "maintainer": "Jayant Deshmukh (@jd1811)"
+    }
+  ]
+}

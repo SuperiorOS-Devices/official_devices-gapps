@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1678303835,
-      "filename": "SuperiorOS-Thirteen-venus-GAPPS-RELEASE-20230309-0557.zip",
-      "id": "a4beb30d5279d2b7ff331e91f061347f980260f22559c1c8817de37c6f191ffd",
+      "datetime":1681288318,
+      "filename": "SuperiorOS-Thirteen-venus-GAPPS-RELEASE-20230412-0836.zip",
+      "id": "41e682e607986703db1cfa68e4e624bed9e181fea1086223762d6a9e58ca3cac",
       "romtype": "RELEASE",
-      "size": 1975466861,
-      "url": "https://master.dl.sourceforge.net/project/superioros/venus/gapps/SuperiorOS-Thirteen-venus-GAPPS-RELEASE-20230309-0557.zip",
+      "size":2128551217,
+      "url": "https://master.dl.sourceforge.net/project/superioros/venus/gapps/SuperiorOS-Thirteen-venus-GAPPS-RELEASE-20230412-0836.zip",
       "version": "Thirteen",
-      "device_name": "venus",
+      "device_name": "Xiaomi Mi 11",
       "maintainer": "Alan Lin"
     }
   ]
