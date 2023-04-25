@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1681270649,
+      "filename": "SuperiorOS-Thirteen-nabu-GAPPS-RELEASE-20230425-1504.zip",
+      "id": "60e937442bee2f95627a17fc8df45d093702935825b0b11c5698398b85b801ef",
+      "romtype": "RELEASE",
+      "size":1556112951,
+      "url": "https://master.dl.sourceforge.net/project/superioros/nabu/25-04-2023/SuperiorOS-Thirteen-nabu-GAPPS-RELEASE-20230425-1504.zip",
+      "version": "Thirteen",
+      "device_name": "Xiaomi Pad 5",
+      "maintainer": "Saikiran (@Saikiran008)"
+    }
+  ]
+}
