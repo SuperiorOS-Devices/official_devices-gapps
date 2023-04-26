@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1682324817,
-      "filename": "SuperiorOS-Thirteen-violet-GAPPS-RELEASE-20230424-0828.zip",
-      "id": "ff6bc903a282bebb31dcb41f6ad209f738ae1619cb11320c2031ed83fa096e4d",
+      "datetime":1682488914,
+      "filename": "SuperiorOS-Thirteen-violet-GAPPS-RELEASE-20230426-0603.zip",
+      "id": "c10d3b5acb04ca023d1b2507fb64bb24b91b0cc0441ea0e4210daa6b08f92959",
       "romtype": "RELEASE",
-      "size":1928634327,
-      "url": "https://master.dl.sourceforge.net/project/superioros/violet/gapps/SuperiorOS-Thirteen-violet-GAPPS-RELEASE-20230424-0828.zip",
+      "size":1927892437,
+      "url": "https://master.dl.sourceforge.net/project/superioros/violet/gapps/SuperiorOS-Thirteen-violet-GAPPS-RELEASE-20230426-0603.zip",
       "version": "Thirteen",
       "device_name": "Xiaomi Redmi Note 7 Pro",
       "maintainer": "Nipin NA (@Joker_V2_0)"
