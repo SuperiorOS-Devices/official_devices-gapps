@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1683779532,
+      "filename": "SuperiorOS-Thirteen-RMX3371-GAPPS-RELEASE-20230511-0432.zip",
+      "id": "18ca7e4a3fd5e1b2aed3ce293b62787848793a1103fa18db575a28a982748e49",
+      "romtype": "RELEASE",
+      "size":1854903809,
+      "url": "https://master.dl.sourceforge.net/project/superioros/RMX3371/gapps/SuperiorOS-Thirteen-RMX3371-GAPPS-RELEASE-20230511-0432.zip",
+      "version": "Thirteen",
+      "device_name": "Realme GT NEO 3T",
+      "maintainer": "Provasishh (@provasishh)"
+    }
+  ]
+}
