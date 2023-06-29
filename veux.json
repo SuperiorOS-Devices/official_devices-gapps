@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1682328519,
-      "filename": "SuperiorOS-Thirteen-veux-GAPPS-RELEASE-20230424-0931.zip",
-      "id": "399cb43de87abc517c5944b15345dfce04e9cb26bdb72124ed41e7c21f9048ec",
+      "datetime": 1688013093,
+      "filename": "SuperiorOS-Thirteen-veux-GAPPS-RELEASE-20230629-0432.zip",
+      "id": "e8a5dc2e7a66cce559f3fc9685b6bf1cf8809e7c20ca69308d8ac20c548e52af",
       "romtype": "RELEASE",
-      "size": 1722842158,
-      "url": "https://master.dl.sourceforge.net/project/superioros/veux/gapps/SuperiorOS-Thirteen-veux-GAPPS-RELEASE-20230424-0931.zip",
+      "size": 1704286879,
+      "url": "https://master.dl.sourceforge.net/project/superioros/veux/gapps/SuperiorOS-Thirteen-veux-GAPPS-RELEASE-20230629-0432.zip",
       "version": "Thirteen",
       "device_name": "Poco X4 Pro/ Redmi note 11 Pro+ 5G",
       "maintainer": "Anant Goel (@Anant_Goel)"
