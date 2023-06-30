@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1688121113,
+      "filename": "SuperiorOS-Thirteen-lynx-GAPPS-RELEASE-20230630-1524.zip",
+      "id": "71b872fbec17aaea11acb442bb395e33410c405a211774053e96f49717a532ee",
+      "romtype": "RELEASE",
+      "size":1999295030,
+      "url": "https://master.dl.sourceforge.net/project/superioros/lynx/gapps/SuperiorOS-Thirteen-lynx-GAPPS-RELEASE-20230630-1524.zip",
+      "version": "Thirteen",
+      "device_name": "Google Pixel 7a",
+      "maintainer": "Vikas Yaduvanshi (@Vikas_2_0)"
+    }
+  ]
+}
