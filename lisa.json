@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1681179280,
-      "filename": "SuperiorOS-Thirteen-lisa-GAPPS-RELEASE-20230425-1300.zip",
-      "id": "53a2927d351561c1c38393a441affe1d6fd857450553cf3db49b0e08326414d7",
+      "datetime":1688912661,
+      "filename": "SuperiorOS-Thirteen-lisa-GAPPS-RELEASE-20230709-1424.zip",
+      "id": "1b632fb92b6ee1329ff196139de8ef7f22f49a44c1c26f420bc93eb0c47df625",
       "romtype": "RELEASE",
-      "size":1629442443,
-      "url": "https://master.dl.sourceforge.net/project/superioros/lisa/gapps/25-04-2023/SuperiorOS-Thirteen-lisa-GAPPS-RELEASE-20230425-1300.zip",
+      "size":1651143384,
+      "url": "https://master.dl.sourceforge.net/project/superioros/lisa/gapps/09-07-2023/SuperiorOS-Thirteen-lisa-GAPPS-RELEASE-20230709-1424.zip",
       "version": "Thirteen",
       "device_name": "Xiaomi 11 Lite 5G NE",
       "maintainer": "Saikiran (@Saikiran008)"
