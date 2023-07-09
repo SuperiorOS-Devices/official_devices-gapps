@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1688033129,
-      "filename": "SuperiorOS-Thirteen-RMX2020-GAPPS-RELEASE-20230629-1007.zip",
-      "id": "599ca63a2d5fc0c6187372fdd2d545b507d27582152fc2ee59a1b6b954fb9888",
+      "datetime":1688905076,
+      "filename": "SuperiorOS-Thirteen-RMX2020-GAPPS-RELEASE-20230629-1221.zip",
+      "id": "d7c25f59f1699f5df2ec7da40b2aaa23d3c1dbddc5574436317b978b179f97fb",
       "romtype": "RELEASE",
-      "size":1514841836,
-      "url": "https://master.dl.sourceforge.net/project/superioros/RMX2020/gapps/SuperiorOS-Thirteen-RMX2020-GAPPS-RELEASE-20230629-1007.zip",
+      "size":1522267680,
+      "url": "https://master.dl.sourceforge.net/project/superioros/RMX2020/gapps/SuperiorOS-Thirteen-RMX2020-GAPPS-RELEASE-20230709-1221.zip",
       "version": "Thirteen",
       "device_name": "Realme C3/ Narzo 10A",
       "maintainer": "Lakshit (@WillyS69)"
