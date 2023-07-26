@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1689253263,
-      "filename": "SuperiorOS-Thirteen-lavender-GAPPS-RELEASE-20230713-1420.zip",
-      "id": "467adf150686dd70ce6b3c6ae1111ae1430dadac99530057b1d809308e144233",
+      "datetime":1690364918,
+      "filename": "SuperiorOS-Thirteen-lavender-GAPPS-RELEASE-20230726-1050.zip",
+      "id": "adf72e6ddd69a3f4ffe9bd1bac3a8f05f569304d90cfe8608e4f05070937e14e",
       "romtype": "RELEASE",
-      "size":1323440572,
-      "url": "https://master.dl.sourceforge.net/project/superioros/lavender/gapps/SuperiorOS-Thirteen-lavender-GAPPS-RELEASE-20230713-1420.zip",
+      "size":1341008233,
+      "url": "https://master.dl.sourceforge.net/project/superioros/lavender/gapps/SuperiorOS-Thirteen-lavender-GAPPS-RELEASE-20230726-1050.zip",
       "version": "Thirteen",
       "device_name": "Xiaomi Redmi Note 7/7s",
       "maintainer": "Prashant"
