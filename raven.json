@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1691856953,
+      "filename": "SuperiorOS-Thirteen-raven-GAPPS-RELEASE-20230812-1703.zip",
+      "id": "0d4666f3077c442c6648f0f1afcf9bfb40da5d3429cbd8d3ee3af0fe749dd62a",
+      "romtype": "RELEASE",
+      "size":2010955416,
+      "url": "https://master.dl.sourceforge.net/project/superioros/raven/SuperiorOS-Thirteen-raven-GAPPS-RELEASE-20230812-1703.zip",
+      "version": "Thirteen",
+      "device_name": "Google Pixel 6 Pro",
+      "maintainer": "PrabhatProxy (@prabhat_proxy)"
+    }
+  ]
+}
