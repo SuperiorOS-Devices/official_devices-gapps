@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1691915284,
+      "filename": "SuperiorOS-Thirteen-oriole-GAPPS-RELEASE-20230813-1036.zip",
+      "id": "04c1f52339ab39d7221ef664658b35dd70b340f438dcb86726badc5ea4c68311",
+      "romtype": "RELEASE",
+      "size":2009963205,
+      "url": "https://master.dl.sourceforge.net/project/superioros/raven/SuperiorOS-Thirteen-oriole-GAPPS-RELEASE-20230813-1036.zip",
+      "version": "Thirteen",
+      "device_name": "Google Pixel 6",
+      "maintainer": "PrabhatProxy (@prabhat_proxy)"
+    }
+  ]
+}
