@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1689161755,
-      "filename": "SuperiorOS-Thirteen-munch-GAPPS-RELEASE-20230713-1506.zip",
-      "id": "4fd78162952fa44de4e7de95e3ddcf7050293a18b05d5a1a4db80bf4276ab973",
+      "datetime": 1692415247,
+      "filename": "SuperiorOS-Thirteen-munch-GAPPS-RELEASE-20230819-1057.zip",
+      "id": "e69448a97d35fcff53eadbf5c5febcf1adb21684e12a915a994aba60c1e4e0dd",
       "romtype": "RELEASE",
-      "size": 1802443597,
-      "url": "https://master.dl.sourceforge.net/project/superioros/munch/gapps/SuperiorOS-Thirteen-munch-GAPPS-RELEASE-20230713-1506.zip",
+      "size": 1756585678,
+      "url": "https://master.dl.sourceforge.net/project/superioros/munch/gapps/SuperiorOS-Thirteen-munch-GAPPS-RELEASE-20230819-1057.zip",
       "version": "Thirteen",
       "device_name": "Poco F4",
       "maintainer": "Mudit (@Mudit1808)"
