@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1691803915,
-      "filename": "SuperiorOS-Thirteen-mojito-GAPPS-RELEASE-20230812-0133.zip",
-      "id": "dec2f9f835fdb064c9dfc77891636f9bbd11e2a6497a98f57f4f521fa1f59cc9",
+      "datetime":1695276286,
+      "filename": "SuperiorOS-Thirteen-mojito-GAPPS-RELEASE-20230921-0606.zip",
+      "id": "8d2ba3b515cfe9932c0974f31bfac7d96a63ea3518c27a11fb4165ee0975423e",
       "romtype": "RELEASE",
-      "size":1808865333,
-      "url": "https://master.dl.sourceforge.net/project/superioros/mojito/gapps/SuperiorOS-Thirteen-mojito-GAPPS-RELEASE-20230812-0133.zip",
+      "size":1807333200,
+      "url": "https://master.dl.sourceforge.net/project/superioros/mojito/gapps/SuperiorOS-Thirteen-mojito-GAPPS-RELEASE-20230921-0606.zip",
       "version": "Thirteen",
       "device_name": "Redmi Note 10",
       "maintainer": "Rom Bdr. Gharti (@Romgharti)"
