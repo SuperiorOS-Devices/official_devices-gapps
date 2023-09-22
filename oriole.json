@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1692541368,
-      "filename": "SuperiorOS-Thirteen-oriole-GAPPS-RELEASE-20230827-1241.zip",
-      "id": "f4a33a15dab835e937a097e2f3d5dacda4d55b378afbb7b617216a2fef4128a5",
+      "datetime":1695366992,
+      "filename": "SuperiorOS-Thirteen-oriole-GAPPS-RELEASE-20230922-0726.zip",
+      "id": "ae65f978425e6f4b211c59f655a120e36c5e426850fdfed7385dab5397771e1d",
       "romtype": "RELEASE",
-      "size":2077427928,
-      "url": "https://master.dl.sourceforge.net/project/superioros/oriole/ota/SuperiorOS-Thirteen-oriole-GAPPS-RELEASE-20230827-1241.zip",
+      "size":2080518219,
+      "url": "https://master.dl.sourceforge.net/project/superioros/oriole/ota/SuperiorOS-Thirteen-oriole-GAPPS-RELEASE-20230922-0726.zip",
       "version": "Thirteen",
       "device_name": "Google Pixel 6",
       "maintainer": "PrabhatProxy (@prabhat_proxy)"
