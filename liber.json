@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1692064498,
-      "filename": "SuperiorOS-Thirteen-liber-GAPPS-RELEASE-20230815-0156.zip",
-      "id": "d87b6e6ad588ccfbb7db84ec1f6798167ec6b58f1493b19edd401692de43f012",
+      "datetime":1695576583,
+      "filename": "SuperiorOS-Thirteen-liber-GAPPS-RELEASE-20230924-1732.zip",
+      "id": "4eb0e6b7a7c41cceec41df26f72a7df121957adb2a74f9e87a52b9db4513cf00",
       "romtype": "RELEASE",
-      "size":1208398097,
-      "url": "https://master.dl.sourceforge.net/project/superioros/liber/gapps/SuperiorOS-Thirteen-liber-GAPPS-RELEASE-20230815-0156.zip",
+      "size":1213085685,
+      "url": "https://master.dl.sourceforge.net/project/superioros/liber/gapps/SuperiorOS-Thirteen-liber-GAPPS-RELEASE-20230924-1732.zip",
       "version": "Thirteen",
       "device_name": "Moto One Fusion+",
       "maintainer": "Dhinesh (@cool585)"
