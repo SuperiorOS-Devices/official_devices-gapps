@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1695340722,
-      "filename": "SuperiorOS-Thirteen-miatoll-GAPPS-RELEASE-20230922-0000.zip",
-      "id": "7f39b51fc313c0bc6c342fa4e884beeb4c465cb1cc8fe33b0a283001bbfacdf5",
+      "datetime":1697792649,
+      "filename": "SuperiorOS-Thirteen-miatoll-GAPPS-RELEASE-20231020-0906.zip",
+      "id": "3f0072003f7d0319d81bc4b650d0527a7ef9feb2458a24bfc54589ba3cd34d4c",
       "romtype": "RELEASE",
-      "size":1818257341,
-      "url": "https://master.dl.sourceforge.net/project/superioros/miatoll/gapps/SuperiorOS-Thirteen-miatoll-GAPPS-RELEASE-20230922-0000.zip",
+      "size":1812821020,
+      "url": "https://master.dl.sourceforge.net/project/superioros/miatoll/gapps/SuperiorOS-Thirteen-miatoll-GAPPS-RELEASE-20231020-0906.zip",
       "version": "Thirteen",
       "device_name": "Redmi Note 9S/Redmi 9 Pro/Redmi Note 9 Pro Max/Redmi Note 10 Lite/Poco M2 Pro",
       "maintainer": "ARINDAM BHATTACHARJEE (@CRUECY)"
