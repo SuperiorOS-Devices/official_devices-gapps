@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1695437553,
-      "filename": "SuperiorOS-Thirteen-sweet-GAPPS-RELEASE-20230923-0253.zip",
-      "id": "a20a675eec1c1a83c064ef585ffa3d23e6b9bebb484c117afb4aedd1b37d35e4",
+      "datetime":1697974997,
+      "filename": "SuperiorOS-Thirteen-sweet-GAPPS-RELEASE-20231022-1146.zip",
+      "id": "bdb90a6e2d3a88911241facc98ee42c365695859e07407b89decc559a24e1c2b",
       "romtype": "RELEASE",
-      "size":1762792731,
-      "url": "https://master.dl.sourceforge.net/project/superioros/sweet/gapps/SuperiorOS-Thirteen-sweet-GAPPS-RELEASE-20230923-0253.zip",
+      "size":1760571861,
+      "url": "https://master.dl.sourceforge.net/project/superioros/sweet/gapps/SuperiorOS-Thirteen-sweet-GAPPS-RELEASE-20231022-1146.zip",
       "version": "Thirteen",
       "device_name": "Xiaomi Redmi Note 10 Pro",
       "maintainer": "unsatifsed27 (@unsatifsed27)"
