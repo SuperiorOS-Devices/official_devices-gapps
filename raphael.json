@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1689245392,
-      "filename": "SuperiorOS-Thirteen-raphael-GAPPS-RELEASE-20230713-1052.zip",
-      "id": "54c1f599c8c3e152aba3c8be07f3295cd2fd211839cb77a4f9f6d9b1353ee44c",
+      "datetime":1701273832,
+      "filename": "SuperiorOS-Thirteen-raphael-GAPPS-RELEASE-20231129-1604.zip",
+      "id": "9d4aeed7841429e84b70eef766ef17c2be7a52e547773f6c3214c2ace5cf9c43",
       "romtype": "RELEASE",
-      "size": 2078311068,
-      "url": "https://master.dl.sourceforge.net/project/superioros/raphael/gapps/SuperiorOS-Thirteen-raphael-GAPPS-RELEASE-20230713-1052.zip",
+      "size":2071584631,
+      "url": "https://master.dl.sourceforge.net/project/superioros/raphael/gapps/SuperiorOS-Thirteen-raphael-GAPPS-RELEASE-20231129-1604.zip",
       "version": "Thirteen",
       "device_name": "Xiaomi Redmi K20 Pro",
       "maintainer": "Anirban (@SageOfD6Path)"
