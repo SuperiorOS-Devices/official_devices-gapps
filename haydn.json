@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1704124712,
-      "filename": "SuperiorOS-Fourteen-haydn-GAPPS-RELEASE-20240101-1558.zip",
-      "id": "485bef2f067caef64a7b3b0ebb9897077c4f9c188f7ee5007472732879cbb326",
+      "datetime":1705564372,
+      "filename": "SuperiorOS-Fourteen-haydn-GAPPS-RELEASE-20240118-0753.zip",
+      "id": "7a120f8fd924dc8df94b94c01eaa0c30607f1395c32bff6e6376ffccb881bad0",
       "romtype": "RELEASE",
-      "size": 2149399803,
-      "url": "https://master.dl.sourceforge.net/project/superioros/haydn/gapps/SuperiorOS-Fourteen-haydn-GAPPS-RELEASE-20240101-1558.zip",
+      "size":2159072943,
+      "url": "https://master.dl.sourceforge.net/project/superioros/haydn/gapps/SuperiorOS-Fourteen-haydn-GAPPS-RELEASE-20240118-0753.zip",
       "version": "Fourteen",
       "device_name": "Mi 11x pro/Redmi K40 Pro",
       "maintainer": "AshraySingh (@AshraySingh)"
