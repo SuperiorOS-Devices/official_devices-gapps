@@ -21,4 +21,17 @@ if [ -f "noupdates.txt" ]; then
 fi
 
 RELEASE_MESSAGE=$(cat tag.txt)
-gh release create "$RELEASE_MESSAGE" ./*.zip -F release_notes.txt -t "New Superior OS Update[Gapps]"
+
+for file in ./*.zip; do
+    # Check file size
+    file_size=$(stat -c%s "$file")
+    max_file_size=2147483648  # 2 GB
+
+    if [ "$file_size" -gt "$max_file_size" ]; then
+        echo "Skipping $file - File size exceeds the limit"
+        continue
+    fi
+
+    # Upload the file using gh
+    gh release create "$RELEASE_MESSAGE" "$file" -F release_notes.txt -t "New Superior OS Update[Gapps]"
+done
