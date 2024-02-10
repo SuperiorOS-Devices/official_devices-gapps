@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1705555786,
-      "filename": "SuperiorOS-Fourteen-avicii-GAPPS-RELEASE-20240118-0529.zip",
-      "id": "1c2af539ec0222a7903b678bfce695058504cc10c5e13ced7ba7c84c40e5f726",
+      "datetime":1707569396,
+      "filename": "SuperiorOS-Fourteen-avicii-GAPPS-RELEASE-20240210-1250.zip",
+      "id": "fadc6b0b59a066685b54bcac191cc5b14a5eb3fe21a1081e2dc87454d3156802",
       "romtype": "RELEASE",
-      "size":1564118002,
-      "url": "https://master.dl.sourceforge.net/project/superioros/avicii/gapps/SuperiorOS-Fourteen-avicii-GAPPS-RELEASE-20240118-0529.zip",
+      "size":1720397375,
+      "url": "https://master.dl.sourceforge.net/project/superioros/avicii/gapps/SuperiorOS-Fourteen-avicii-GAPPS-RELEASE-20240210-1250.zip",
       "version": "Fourteen",
       "device_name": "Oneplus Nord",
       "maintainer": "Sipun Ku Mahanta (@Darkstar085)"
