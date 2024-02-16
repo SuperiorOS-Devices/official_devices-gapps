@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1705742828,
-      "filename": "SuperiorOS-Fourteen-lynx-GAPPS-RELEASE-20240120-1010.zip",
-      "id": "22795790280c0e81ced59dd2d9bcf5a72c8b1d8588755ad6b92ecf781a03e04f",
+      "datetime":1708092479,
+      "filename": "SuperiorOS-Fourteen-lynx-GAPPS-RELEASE-20240216-1418.zip",
+      "id": "8a04b0b609dfca5a28be0b8ffb4acf129d3c889344496e350244243e71dd3785",
       "romtype": "RELEASE",
-      "size":1617452771,
-      "url": "https://master.dl.sourceforge.net/project/superioros/lynx/gapps/SuperiorOS-Fourteen-lynx-GAPPS-RELEASE-20240120-1010.zip",
+      "size":2112787197,
+      "url": "https://master.dl.sourceforge.net/project/superioros/lynx/gapps/SuperiorOS-Fourteen-lynx-GAPPS-RELEASE-20240216-1418.zip",
       "version": "fourteen",
       "device_name": "Google Pixel 7a",
       "maintainer": "Vikas Yaduvanshi (@Vikas_2_0)"
