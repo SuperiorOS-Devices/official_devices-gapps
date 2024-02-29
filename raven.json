@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1708518367,
-      "filename": "SuperiorOS-Fourteen-raven-GAPPS-RELEASE-20240221-1230-updateimages.zip",
-      "id": "2528a1ff98d72f48067414feb5fa16808fe29f1bc607113821a8b7ab627185b6",
+      "datetime":1709137182,
+      "filename": "SuperiorOS-Fourteen-raven-GAPPS-RELEASE-20240228-1527.zip",
+      "id": "471f523224fd3cbbe96e977b9677ca1dca66985d45e118bff52c4aabf70326d5",
       "romtype": "RELEASE",
-      "size":2641088702,
-      "url": "https://master.dl.sourceforge.net/project/superioros/raven/SuperiorOS-Fourteen-raven-GAPPS-RELEASE-20240221-1230-updateimages.zip",
+      "size":1974088311,
+      "url": "https://master.dl.sourceforge.net/project/superioros/raven/ota/SuperiorOS-Fourteen-raven-GAPPS-RELEASE-20240228-1527.zip",
       "version": "Fourteen",
       "device_name": "Google Pixel 6 Pro",
       "maintainer": "PrabhatProxy (@prabhat_proxy)"
