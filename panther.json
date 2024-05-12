@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1708083114,
-      "filename": "SuperiorOS-Fourteen-panther-GAPPS-RELEASE-20240216-1135.zip",
-      "id": "51060d017521eb512b51dc9f3d11fb7bcf7bfb11f7f1d1f9b06c6ad99e6398ed",
+      "datetime":1715452411,
+      "filename": "SuperiorOS-Fourteen-panther-GAPPS-RELEASE-20240511-1835.zip",
+      "id": "52cf3d2ab2855c59f5a86472c9026f1723d3a4f52e3dc2e1084e607cb6367537",
       "romtype": "RELEASE",
-      "size":2094859254,
-      "url": "https://master.dl.sourceforge.net/project/superioros/panther/SuperiorOS-Fourteen-panther-GAPPS-RELEASE-20240216-1135.zip",
+      "size":2114829204,
+      "url": "https://master.dl.sourceforge.net/project/superioros/panther/SuperiorOS-Fourteen-panther-GAPPS-RELEASE-20240511-1835.zip",
       "version": "Fourteen",
       "device_name": "Google Pixel 7",
       "maintainer": "Jayant Deshmukh (@jd1811)"
